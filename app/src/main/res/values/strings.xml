@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mobile 03 20182</string>
+    <string name="text_heading_1">User Input Control and Menu</string>
+    <string name="menu_1">Pizza Super Supreme</string>
+    <string name="menu_2">American Lovers</string>
+    <string name="menu_3">Soft drink</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="action_submit">Submit</string>
+    <string name="text_heading_checkbox">CheckBox</string>
+    <string name="text_heading_radio">RadioButton</string>
+    <string name="text_heading_spinner">Spinner</string>
+    <string name="app_menu_1">Menu A</string>
+    <string name="app_menu_2">Menu B</string>
+</resources>
